@@ -2,3 +2,7 @@
 data.csv/rating.csv
 domains_location.csv
 traffic_data/traffic.csv
+C:\Users\addisu\Documents\GitHub\news_correlation_10ac_week0\venv
+venv/*
+.csv*
+.env
