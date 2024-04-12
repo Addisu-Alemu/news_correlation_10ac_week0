@@ -5,4 +5,11 @@ traffic_data/traffic.csv
 C:\Users\addisu\Documents\GitHub\news_correlation_10ac_week0\venv
 venv/*
 .csv*
-.env
+
+/venv
+/venv
+*.pyc
+venv/Lib/site-packages/__pycache__/decorator.cpython-312.pyc
+/venv
+/venv
+/venv
