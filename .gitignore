@@ -10,3 +10,6 @@ venv/*
 /venv
 *.pyc
 venv/Lib/site-packages/__pycache__/decorator.cpython-312.pyc
+/venv
+/venv
+/venv
