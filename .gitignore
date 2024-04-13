@@ -2,4 +2,8 @@
 data.csv/rating.csv
 domains_location.csv
 traffic_data/traffic.csv
-/venv
+/venv/
+/venv/Lib/site-packages/
+/venv/Scripts/
+/venv/Lib/
+/data.csv/
